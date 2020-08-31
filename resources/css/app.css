@@ -1,0 +1,41 @@
+@tailwind base;
+
+@tailwind components;
+
+.bg-icon-pertama {
+    background-color: #ff6d41;
+}
+
+.tombol-get-link {
+    background-color: #ff6d41;
+}
+
+.tombol-click-me {
+    background-color: #ffb739;
+}
+
+.bg-section {
+    background-color: #ece6d6;
+}
+
+.text-section {
+    color: #ece6d6;
+}
+
+.bg-cc {
+    background-color: #f4f4f4;
+}
+
+.text-cc {
+    color: #f4f4f4;
+}
+
+.bg-footer {
+    background-color: #203e61;
+}
+
+.text-footer {
+    color: #203e61;
+}
+
+@tailwind utilities;
