@@ -6,7 +6,7 @@
 ## Tech Stack :computer::globe_with_meridians:
 
 -   [<img src="https://laravel.com/img/logotype.min.svg" width="125">](https://laravel.com)
--   [<img src="https://vuejs.org/images/logo.png" width="50">](https://laravel.com)
+-   [<img src="https://vuejs.org/images/logo.png" width="50">](https://vuejs.org)
 -   [<img src="https://camo.githubusercontent.com/87d7034892fd41dc88f3606bb44b853f87cd2c51/68747470733a2f2f7265666163746f72696e6775692e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f7461696c77696e642d6c6f676f2e737667" width="175">](https://tailwindcss.com)
 
 ## INSTALLATION
